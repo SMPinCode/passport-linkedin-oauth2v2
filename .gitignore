@@ -6,7 +6,7 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+.idea/workspace.xml
 pids
 logs
 results

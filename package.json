@@ -1,6 +1,6 @@
 {
   "name": "@smpincode/passport-linkedin-oauth2v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport for new LinkedIn Oauth2 (works with lite profile AND emailaddress)",
   "main": "./lib",
   "repository": {
