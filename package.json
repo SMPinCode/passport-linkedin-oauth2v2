@@ -1,11 +1,11 @@
 {
-  "name": "@smpincode/passport-linkedin-oauth2",
+  "name": "@smpincode/passport-linkedin-oauth2v2",
   "version": "1.0.0",
   "description": "Passport for new LinkedIn Oauth2 (works with lite profile AND emailaddress)",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SMPinCode/passport-linkedin-oauth2.git"
+    "url": "git+https://github.com/SMPinCode/passport-linkedin-oauth2v2.git"
   },
   "scripts": {
     "test": "mocha --require should -t 5000"
@@ -39,9 +39,9 @@
     "underscore": "^1.7.0"
   },
   "bugs": {
-    "url": "https://github.com/SMPinCode/passport-linkedin-oauth2/issues"
+    "url": "https://github.com/SMPinCode/passport-linkedin-oauth2v2/issues"
   },
-  "homepage": "https://github.com/SMPinCode/passport-linkedin-oauth2#readme",
+  "homepage": "https://github.com/SMPinCode/passport-linkedin-oauth2v2#readme",
   "directories": {
     "example": "example",
     "lib": "lib",
